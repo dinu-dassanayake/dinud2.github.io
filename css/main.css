@@ -296,9 +296,9 @@
 .yt__logo {
   display: block;
   position: relative;
-  right: 500px;
-  width: 450px;
-  height: 450px;
+  right: 170px;
+  width: 350px;
+  height: 350px;
   border-radius: 12px;
 }
 @media all and (max-width: 899px) {
@@ -309,7 +309,8 @@
 
 .about__medescription {
   position: relative;
-  bottom: 50px;
+  top: 75px;
+  right: 300px;
 }
 .link__free {
   color: blanchedalmond;
